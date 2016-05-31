@@ -1,0 +1,16 @@
+{
+  "name": "node-psi-sitemap",
+  "version": "0.0.0",
+  "description": "",
+  "author": "",
+  "private": true,
+  "license": "MIT",
+  "dependencies": {
+    "psi": "^2.0.0",
+    "cli-table": "^0.3.0",
+    "xml2js": "^0.4.10"
+  },
+  "scripts": {
+    "prestart": "npm install"
+  }
+}
